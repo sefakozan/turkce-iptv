@@ -15,3 +15,8 @@ Türkçe IPTV televizyon kanallarını izlemek için VLC Player gibi M3U destekl
 * https://vlc-iptv.github.io/tr-08.m3u
 
 ![VLC Network Panel](preview.png)
+
+## Detaylı Bilgiye Bu Video'dan Ulaşabilirsiniz
+https://www.youtube.com/watch?v=OBNKF6tibkA  
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/OBNKF6tibkA/0.jpg)](https://www.youtube.com/watch?v=OBNKF6tibkA)
