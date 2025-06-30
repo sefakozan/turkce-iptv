@@ -14,6 +14,6 @@ Amerika: https://sefakozan.github.io/turkce-iptv/streams/us/us.m3u
 
 Dünya: https://sefakozan.github.io/turkce-iptv/streams/world/world.m3u
 
-Streams dosyası içinde olan diğer yayınları da kullanabilirsiniz. Streams içinden bakarak linkin sonu "/streams/dil/yayın kodu" olarak değiştirilmeli.
+Streams dosyası içinde olan diğer yayınları da kullanabilirsiniz. Streams içinden bakarak linkin sonu "/streams/dil/yayın ismi" olarak değiştirilmeli.
 
 ![VLC Network Panel](preview.png)
